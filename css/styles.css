@@ -1,0 +1,16 @@
+.svg-container {
+    width: 100%;
+    height: auto;
+}
+#svg_marker {
+    opacity: 0;
+}
+#svg_logo {
+    opacity: 0;
+}
+#svg_line {
+    /* opacity: 0; */
+}
+#svg_dot {
+    /* opacity: 0; */
+}
